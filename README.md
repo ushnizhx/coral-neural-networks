@@ -4,6 +4,12 @@ An AI-powered mobile application designed to diagnose coral health from photogra
 
 ![App Preview](coral_app/assets/app_logo.jpeg)
 
+## 📥 Download the App (APK)
+
+**[Download the latest Android APK from the Releases Page](https://github.com/ushnizhx/coral-neural-networks/releases)**
+
+> **Note:** The app requires the Python backend to be running (either locally or on a server) to process the images and generate the Grad-CAM heatmaps.
+
 ## 📌 Overview
 
 This project consists of two main components:
